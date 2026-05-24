@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -217,25 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-=======
-# Node
-node_modules/
-dist/
-.env
-
-# Python
-__pycache__/
-*.pyc
-venv/
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
->>>>>>> da7b716 (Initial commit)
